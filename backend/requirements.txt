@@ -45,9 +45,9 @@ exceptiongroup==1.3.0 ; python_full_version < '3.11' \
     --hash=sha256:4d111e6e0c13d0644cad6ddaa7ed0261a0b36971f6d23e7ec9b4b9097da78a10 \
     --hash=sha256:b241f5885f560bc56a59ee63ca4c6a8bfa46ae4ad651af316d4e81817bb9fd88
     # via anyio
-fastapi==0.119.1 \
-    --hash=sha256:0b8c2a2cce853216e150e9bd4faaed88227f8eb37de21cb200771f491586a27f \
-    --hash=sha256:a5e3426edce3fe221af4e1992c6d79011b247e3b03cc57999d697fe76cbf8ae0
+fastapi==0.120.0 \
+    --hash=sha256:6ce2c1cfb7000ac14ffd8ddb2bc12e62d023a36c20ec3710d09d8e36fab177a0 \
+    --hash=sha256:84009182e530c47648da2f07eb380b44b69889a4acfd9e9035ee4605c5cfc469
     # via fast-api
 fastapi-cli==0.0.14 \
     --hash=sha256:ddfb5de0a67f77a8b3271af1460489bd4d7f4add73d11fbfac613827b0275274 \
