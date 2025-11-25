@@ -53,9 +53,9 @@ fastapi-cli==0.0.16 \
     --hash=sha256:addcb6d130b5b9c91adbbf3f2947fe115991495fdb442fe3e51b5fc6327df9f4 \
     --hash=sha256:e8a2a1ecf7a4e062e3b2eec63ae34387d1e142d4849181d936b23c4bdfe29073
     # via fastapi
-fastapi-cloud-cli==0.5.1 \
-    --hash=sha256:1a28415b059b27af180a55a835ac2c9e924a66be88412d5649d4f91993d1a698 \
-    --hash=sha256:5ed9591fda9ef5ed846c7fb937a06c491a00eef6d5bb656c84d82f47e500804b
+fastapi-cloud-cli==0.5.2 \
+    --hash=sha256:34d04ffadb2562c3ebb39e6f5a599c47353750f75a2ef0a2d9c1442ed09f3308 \
+    --hash=sha256:783ab5e41baf8afcbbfb7e513ac5bdf7376202053b8bf2d158a38978dba1ca69
     # via fastapi-cli
 h11==0.16.0 \
     --hash=sha256:4e35b956cf45792e4caa5885e69fba00bdbc6ffafbfa020300e549b208ee5ff1 \
