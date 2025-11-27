@@ -443,9 +443,9 @@ rich==14.2.0 \
     # via
     #   rich-toolkit
     #   typer
-rich-toolkit==0.15.1 \
-    --hash=sha256:36a0b1d9a135d26776e4b78f1d5c2655da6e0ef432380b5c6b523c8d8ab97478 \
-    --hash=sha256:6f9630eb29f3843d19d48c3bd5706a086d36d62016687f9d0efa027ddc2dd08a
+rich-toolkit==0.17.0 \
+    --hash=sha256:06fb47a5c5259d6b480287cd38aff5f551b6e1a307f90ed592453dd360e4e71e \
+    --hash=sha256:17ca7a32e613001aa0945ddea27a246f6de01dfc4c12403254c057a8ee542977
     # via
     #   fastapi-cli
     #   fastapi-cloud-cli
