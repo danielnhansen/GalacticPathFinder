@@ -228,9 +228,9 @@ mdurl==0.1.2 \
     --hash=sha256:84008a41e51615a49fc9966191ff91509e3c40b939176e643fd50a5c2196b8f8 \
     --hash=sha256:bb413d29f5eea38f31dd4754dd7377d4465116fb207585f97bf925588687c1ba
     # via markdown-it-py
-pydantic==2.13.1 \
-    --hash=sha256:9557ecc2806faaf6037f85b1fbd963d01e30511c48085f0d573650fdeaad378a \
-    --hash=sha256:a0f829b279ddd1e39291133fe2539d2aa46cc6b150c1706a270ff0879e3774d2
+pydantic==2.13.2 \
+    --hash=sha256:a525087f4c03d7e7456a3de89b64cd693d2229933bb1068b9af6befd5563694e \
+    --hash=sha256:b418196607e61081c3226dcd4f0672f2a194828abb9109e9cfb84026564df2d1
     # via
     #   fastapi
     #   fastapi-cloud-cli
