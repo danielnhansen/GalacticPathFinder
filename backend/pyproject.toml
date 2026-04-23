@@ -5,7 +5,7 @@ description = "A server for GalacticPathFinder, a pathfinding service using Fast
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "fastapi[standard]>=0.136.0",
+    "fastapi[standard]>=0.136.1",
     "loguru>=0.7.3",
 ]
 
