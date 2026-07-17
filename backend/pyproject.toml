@@ -24,7 +24,7 @@ docs = [
     "mkdocs-awesome-nav>=3.3.0",
     "mkdocs-material>=9.7.7",
     "mkdocstrings>=1.0.6",
-    "mkdocstrings-python>=2.0.3",
+    "mkdocstrings-python>=2.0.5",
 ]
 
 [tool.commitizen]
