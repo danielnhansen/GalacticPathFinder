@@ -621,9 +621,9 @@ rignore==0.8.1 \
     --hash=sha256:fe7a7dcd84affbf312336991202c11922c13aff323e2857c5baf10afc0dd7f2d \
     --hash=sha256:ff09db59f672d929bca88ee7089d3697256967df76a2bab8b187208f2b517bc0
     # via fastapi-cloud-cli
-sentry-sdk==2.66.1 \
-    --hash=sha256:86002793161d9a95ef04bdd8d442e9bfece5d989b755f05d6360215094a7aff6 \
-    --hash=sha256:f882fb08710c5f8bfc603aafa3e901b384009a19cc3f76a572b863392ee81cdc
+sentry-sdk==2.67.1 \
+    --hash=sha256:a66bfbce1cd8a93c51c369d642ad85b46253ea7a6f7938141315b83e2823cda5 \
+    --hash=sha256:f263d8c9aa4137750640de8fb0ed5404df6bb564e20e4b59cb16a6eeba18d4ed
     # via fastapi-cloud-cli
 shellingham==1.5.4 \
     --hash=sha256:7ecfff8f2fd72616f7481040475a65b2bf8af90a56c89140852d1120324e8686 \
